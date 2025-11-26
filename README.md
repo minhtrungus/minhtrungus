@@ -11,11 +11,11 @@
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhtrungus&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrungus&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
+## 📊 My Activity Cards
+![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/3-stats.svg)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
