@@ -11,21 +11,14 @@
 
 ---
 
-## 📊 My Activity Cards
-
 ## 📊 My GitHub Summary
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%">
-  <br><br>
 
-  <img src="https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170">
-  <img src="https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170">
-  <br>
-
-  <img src="https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/3-stats.svg" height="170">
-  <img src="https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="170">
+[![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minhtrungus/minhtrungus/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
